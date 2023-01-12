@@ -12,10 +12,10 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=0074bd)](https://www.w3.org/html/)
 
 
-[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFF)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=b52e31)](https://laravel.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=b52e31)](https://angular.org/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)

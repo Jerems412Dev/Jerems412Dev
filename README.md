@@ -2,8 +2,6 @@
 
 - 📫 Contactez-moi sur **jeremyobiang@yahoo.com**
 
-[![jerems412Dev](https://github-profile-trophy.vercel.app/?username=jerems412Dev&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-evrard-obiang-engone-257436247/)
@@ -25,7 +23,7 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
-## En apprentissage / perfectionnement
+## En apprentissage
 
 [![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=4FC08D)](https://spring.io/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=00DC82)](https://nextjs.org/)

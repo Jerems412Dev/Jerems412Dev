@@ -15,8 +15,8 @@
 [![Java](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 
 
-[![Symfony](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFF)](https://laravel.com)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFF)](https://laravel.com)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=4FC08D)](https://angular.org/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 

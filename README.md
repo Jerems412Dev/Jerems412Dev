@@ -16,7 +16,7 @@
 
 
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFF)](https://laravel.com)
-[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=4FC08D)](https://angular.org/)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=b52e31)](https://angular.org/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 

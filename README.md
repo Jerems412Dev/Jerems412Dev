@@ -1,22 +1,20 @@
-# Bienvenue sur Drakolab 👋
+# Bienvenue👋
 
-- 📫 Contactez-moi sur **remi@drakona.fr**
+- 📫 Contactez-moi sur **jeremyobiang@yahoo.com**
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![Dreeckan](https://github-profile-trophy.vercel.app/?username=jerems421Dev&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Me retrouver
 
-[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com/@drakolab)
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-evrard-obiang-engone-257436247/)
 
 ## Languages et outils
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JAVA](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />)]([https://www.php.net](https://www.java.com/fr/))
 
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)

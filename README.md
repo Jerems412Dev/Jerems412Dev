@@ -27,7 +27,7 @@
 
 [![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=4FC08D)](https://vuejs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=00DC82)](https://nuxtjs.org/)
-[![Adobe XD](https://img.shields.io/badge/-Adobe.xd-000?&logo=Adobe.xd&logoColor=F24E1E)](https://www.figma.com/)
+[![Adobe XD](https://img.shields.io/badge/-Adobe xd-000?&logo=Adobe xd&logoColor=F24E1E)](https://www.figma.com/)
 
 
 ## Quelques stats

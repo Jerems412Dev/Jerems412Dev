@@ -25,9 +25,9 @@
 
 ## En apprentissage / perfectionnement
 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
-[![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=4FC08D)](https://vuejs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=00DC82)](https://nuxtjs.org/)
+[![Adobe XD](https://img.shields.io/badge/-xd-000?&logo=xd&logoColor=F24E1E)](https://www.figma.com/)
 
 
 ## Quelques stats

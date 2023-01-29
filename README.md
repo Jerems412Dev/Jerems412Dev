@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jérémy-Evrard OBIANG-ENGONE</h1>
 
-- 📫 Contactez-moi sur **jeremyobiang@yahoo.com**
+- 📫 Contact me on **jeremyobiang@yahoo.com**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## Me retrouver
+## Find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-evrard-obiang-engone-257436247/)
 
-## Languages et outils
+## Languages and tools
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
@@ -28,11 +28,11 @@
 [![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=F05032)](https://postman.com/)
 [![Adobe xd](https://img.shields.io/badge/-adobexd-000?&logo=adobexd&logoColor=f75eee)](https://git-scm.com/)
 
-## En apprentissage
+## Apprenticeship
 
 [![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=4FC08D)](https://spring.io/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=00DC82)](https://nextjs.org/)
 
-## Quelques stats
+## Some stats
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerems412Dev&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 

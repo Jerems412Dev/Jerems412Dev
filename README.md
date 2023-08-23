@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jérémy-Evrard OBIANG-ENGONE</h1>
 
-- 📫 Contact me on **jeremyobiang@yahoo.com**
+- 📫 Contact me on **jeremyobiangdev@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

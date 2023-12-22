@@ -16,22 +16,13 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=0074bd)](https://www.java.com/)
 
-
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=b52e31)](https://laravel.com)
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=fff)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=b52e31)](https://angular.org/)
-
+[![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=4FC08D)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
-[![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=F05032)](https://postman.com/)
-[![Adobe xd](https://img.shields.io/badge/-adobexd-000?&logo=adobexd&logoColor=f75eee)](https://git-scm.com/)
-
-## Apprenticeship
-
-[![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=4FC08D)](https://spring.io/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=00DC82)](https://nextjs.org/)
 
 ## Some stats
 

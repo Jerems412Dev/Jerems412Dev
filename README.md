@@ -19,7 +19,6 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=b52e31)](https://laravel.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=b52e31)](https://angular.org/)
 [![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=4FC08D)](https://spring.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)

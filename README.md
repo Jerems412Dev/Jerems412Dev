@@ -10,13 +10,11 @@
 
 ## Languages and tools
 
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![TypeScript](https://img.shields.io/badge/-TypeScrypt-000?&logo=TypeScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=0074bd)](https://www.java.com/)
 
-[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=b52e31)](https://laravel.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=b52e31)](https://angular.org/)
 [![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=4FC08D)](https://spring.io/)
 

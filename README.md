@@ -6,7 +6,9 @@
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-evrard-obiang-engone-257436247/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-evrard-obiang-engone-257436247/)
+[![](https://img.shields.io/badge/-X-000?&logo=X&logoColor=ffffff)](https://x.com/jeremsOb)
+[![instagram](https://img.shields.io/badge/-instagram-000?&logo=instagram)]([https://x.com/jeremsOb](https://www.instagram.com/jeremsdev/))
 
 ## Languages and tools
 

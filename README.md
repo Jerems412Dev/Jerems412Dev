@@ -22,3 +22,5 @@
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=1572B6)](https://angular.org/)
 [![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=4FC08D)](https://spring.io/)
 
+![](https://komarev.com/ghpvc/?username=Jerems412Dev&color=blue)
+

@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Jerems Dev</h1>
 
 - 📫 Contact me on **jeremyobiangdev@gmail.com**
-- 🏠 Find more about me there : **[jeremdev.com](https://www.jerems.dev/)**
+- 🏠 Find more about me there : **[jerems.dev](https://www.jerems.dev/)**
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dkOHFjdnUzdDd3MTViMGE1bjVxenVvanpqZXRuMXprZnpocXQ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbr4zVb3rQKsIR3o5d/giphy.gif">
 
